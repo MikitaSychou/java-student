@@ -1,1 +1,1 @@
-# CombineNames.java
+# Grasshopper - Combine strings
