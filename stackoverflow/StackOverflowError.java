@@ -1,3 +1,5 @@
+package stackoverflow;
+
 public class StackOverflowError {
 
     // StackOverflowError
