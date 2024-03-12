@@ -1,2 +1,2 @@
-# java-student
-Java tasks
+# Sum without highest and lowest number
+
