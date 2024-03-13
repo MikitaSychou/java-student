@@ -16,7 +16,7 @@ public class HeapCollapse {
         List<Integer> integerList = new ArrayList<>();
 
         while (true) {
-            integerList.add(1000);
+            integerList.add(Integer.MAX_VALUE);
         }
     }
 }
