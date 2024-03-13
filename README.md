@@ -1,1 +1,2 @@
-# StackOverflowError
+# OutOfMemoryError
+Heap collapse
