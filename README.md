@@ -1,1 +1,1 @@
-# Sum without highest and lowest number
+# Grasshopper - Combine strings
