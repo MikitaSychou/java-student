@@ -1,2 +1,2 @@
-# java-student
-Java tasks
+# task-1 transactions
+
