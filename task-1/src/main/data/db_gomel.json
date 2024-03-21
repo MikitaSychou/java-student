@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2011-08-12",
+      "userId": 1,
+      "creditId": 1,
+      "currency": "RUR",
+      "money": 1500
+    }
+    ]
+}

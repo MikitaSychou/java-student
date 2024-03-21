@@ -1,0 +1,80 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Alex",
+        "secondName": "Smith",
+        "sex": "MALE",
+        "birthday": "1984-06-14"
+      }
+    ],
+    "credits": [
+      {
+        "id": 0,
+        "userId": 1,
+        "date": "2011-01-20",
+        "period": "DAY",
+        "money": 75000,
+        "rate": 10.6
+      },
+      {
+        "id": 1,
+        "userId": 1,
+        "date": "2017-04-15",
+        "period": "WEEK",
+        "money": 42100,
+        "rate": 10.6
+      },
+      {
+        "id": 2,
+        "userId": 1,
+        "date": "2016-02-01",
+        "period": "MONTH",
+        "money": 35400,
+        "rate": 10.6
+      },
+      {
+        "id": 3,
+        "userId": 1,
+        "date": "2013-05-07",
+        "period": "YEAR",
+        "money": 41700,
+        "rate": 10.6
+      }
+    ],
+    "discounts": [
+      {
+        "id": 0,
+        "type": "ONE",
+        "date": "2007-04-12",
+        "discount": 6.1
+      },
+      {
+        "id": 1,
+        "type": "MANY",
+        "dateFrom": "2007-04-12",
+        "dateTo": "2008-04-12",
+        "discount": 6.1
+      }
+    ],
+    "events": [
+      {
+        "id": 0,
+        "currency": "EUR",
+        "cost": 1600,
+        "data": "2008-04-12"
+      }
+    ],
+    "transactions": [
+      {
+        "id": 0,
+        "date": "2007-04-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1400
+      }
+    ]
+  }
+}

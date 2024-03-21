@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "dateFrom": "2010-04-06",
+    "dateTo": "2015-07-06",
+    "showFor": {
+      "type": "ID",
+      "users": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "sortBy": "NAME",
+    "useDepartments": [
+      "gomel",
+      "minsk"
+    ],
+    "startCostEUR": 2.4,
+    "startCostUSD": 2.1
+  }
+}

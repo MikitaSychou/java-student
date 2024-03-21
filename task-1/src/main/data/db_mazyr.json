@@ -1,0 +1,47 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 12,
+        "name": "Volha",
+        "secondName": "Smirnova",
+        "sex": "FEMALE",
+        "birthday": "1987-06-14"
+      }
+    ],
+    "credits": [
+      {
+        "id": 0,
+        "userId": 12,
+        "date": "2011-01-20",
+        "period": "DAY",
+        "money": 55000,
+        "rate": 10.0
+      }
+    ],
+    "discounts": [
+      {
+        "id": 0,
+        "type": "ONE"
+      }
+    ],
+    "events": [
+      {
+        "id": 0,
+        "currency": "EUR",
+        "cost": 1600,
+        "date": "2009-06-10"
+      }
+    ],
+    "transactions": [
+      {
+        "id": 0,
+        "date": "2009-06-10",
+        "userId": 12,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1300
+      }
+    ]
+  }
+}

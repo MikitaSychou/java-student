@@ -1,0 +1,371 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Alex",
+        "secondName": "Smith",
+        "sex": null,
+        "birthday": "1984-06-14"
+      }
+    ],
+    "credits": [
+      {
+        "id": 0,
+        "userId": 1,
+        "date": "2011-01-20",
+        "period": "DAY",
+        "money": 75000,
+        "rate": 10.6
+      },
+      {
+        "id": 1,
+        "userId": 1,
+        "date": "2017-04-15",
+        "period": "WEEK",
+        "money": 42100,
+        "rate": 10.6
+      },
+      {
+        "id": 2,
+        "userId": 1,
+        "date": "2016-02-01",
+        "period": "MONTH",
+        "money": 35400,
+        "rate": 10.6
+      },
+      {
+        "id": 3,
+        "userId": 1,
+        "date": "2013-05-07",
+        "period": "YEAR",
+        "money": 41700,
+        "rate": 10.6
+      }
+    ],
+    "discounts": [
+      {
+        "id": 0,
+        "type": "ONE"
+      },
+      {
+        "id": 1,
+        "type": "MANY"
+      }
+    ],
+    "events": [
+      {
+        "id": 0,
+        "currency": "EUR",
+        "cost": 1600,
+        "date": null
+      }
+    ],
+    "transactions": [
+      {
+        "id": 0,
+        "date": "2007-04-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2009-04-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2009-04-13",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2010-04-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1200
+      },
+      {
+        "id": 0,
+        "date": "2010-06-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 200
+      },
+      {
+        "id": 0,
+        "date": "2010-07-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2011-05-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2012-04-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2012-05-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 10
+      },
+      {
+        "id": 0,
+        "date": "2012-05-13",
+        "userId": 2,
+        "creditId": 5,
+        "currency": "EUR",
+        "money": 10
+      },
+      {
+        "id": 0,
+        "date": "2014-05-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 10
+      },
+      {
+        "id": 0,
+        "date": "2015-05-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2016-05-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-05-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-06-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-07-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-08-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-09-13",
+        "userId": 2,
+        "creditId": 2,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-09-13",
+        "userId": 3,
+        "creditId": 3,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-09-13",
+        "userId": 5,
+        "creditId": 8,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2017-09-13",
+        "userId": 5,
+        "creditId": 9,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2017-09-13",
+        "userId": 5,
+        "creditId": 11,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2019-09-13",
+        "userId": 4,
+        "creditId": 12,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2019-09-13",
+        "userId": 1,
+        "creditId": 1,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2019-10-13",
+        "userId": 2,
+        "creditId": 14,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2019-10-13",
+        "userId": 1,
+        "creditId": 14,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2013-11-13",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2013-11-13",
+        "userId": 2,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2014-11-13",
+        "userId": 2,
+        "creditId": 9,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2014-11-13",
+        "userId": 20,
+        "creditId": 9,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2014-11-13",
+        "userId": 21,
+        "creditId": 9,
+        "currency": "EUR",
+        "money": 1000
+      },
+      {
+        "id": 0,
+        "date": "2015-11-13",
+        "userId": 1,
+        "creditId": 9,
+        "currency": "EUR",
+        "money": 100
+      },
+      {
+        "id": 0,
+        "date": "2005-04-12",
+        "userId": 1,
+        "creditId": 2,
+        "currency": null,
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2005-04-12",
+        "userId": 1,
+        "creditId": 9,
+        "currency": null,
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2005-04-12",
+        "userId": 19,
+        "creditId": 99,
+        "currency": null,
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2005-04-12",
+        "userId": 29,
+        "creditId": 98,
+        "currency": null,
+        "money": 1400
+      },
+      {
+        "id": 0,
+        "date": "2005-04-12",
+        "userId": 37,
+        "creditId": 39,
+        "currency": null,
+        "money": 1500
+      },
+      {
+        "id": 0,
+        "date": "2010-08-12",
+        "userId": 1,
+        "creditId": 6,
+        "currency": "EUR",
+        "money": 1400
+      }
+    ]
+  }
+}
